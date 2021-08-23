@@ -1,2 +1,2 @@
-# kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+# An Analysis of Kicstarter Campaigns
+Kickstarter campaigns have been analysed for likelyhood of success
