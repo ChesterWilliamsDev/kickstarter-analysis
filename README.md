@@ -19,4 +19,3 @@ The data set has limitations when searching for information about the campaigns 
 •	This data set is limited by the information about the projects behind the campaigns. The teams performing the campaigns also matter. The dollar alone with the, type, and success are limited pieces of information to truly understand what a successful campaign looks like. 
 •	Additional tables could look at the Country and success relationship, or the relationship between success and the timeline from the start of the campaign to conclusion. 
 
-## Resu
